@@ -7,5 +7,7 @@ This project is in progress and currently, we are engineering the features to im
 
 # Credits 
 Will Koehrsen (https://www.kaggle.com/willkoehrsen)
+
 Olivier (https://www.kaggle.com/ogrellier)
+
 Aguiar (https://www.kaggle.com/jsaguiar)
