@@ -1,7 +1,7 @@
 # home-credit-kaggle-competition
 The Home credit default risk machine learning competition's main objective was to predict whether or not the applicant will be able to repay the loan which is a standard supervised classification task:
 
-Supervised: The labels are included in the training data and the goal is to train a model to learn to predict the labels from the features
+<b>Supervised<b>: The labels are included in the training data and the goal is to train a model to learn to predict the labels from the features
 
 Classification: The label is a binary variable, 0 (will repay loan on time), 1 (will have difficulty repaying loan)
 
