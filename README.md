@@ -37,3 +37,5 @@ Will Koehrsen (https://www.kaggle.com/willkoehrsen)
 Olivier (https://www.kaggle.com/ogrellier)
 
 Aguiar (https://www.kaggle.com/jsaguiar)
+
+# The resources/files should be used only to develop an understanding of the machine learning model. Any commercial use is strictly prohibited.
