@@ -22,6 +22,9 @@ The data comprised of 7 different files:
 <b>installments_payment</b>: payment history for previous loans at Home Credit. There is one row for every made payment and one row for every missed payment.
 
 
+The diagram shows how the data is related:
+![home_credit_overview](https://user-images.githubusercontent.com/25699909/44066384-a75d01cc-9f35-11e8-84a8-fe60cbeedfcf.PNG)
+
 This is an online machine learning competition, currently being hosted on kaggle website. The files in this repository provide insights to 
 Exploratory Data Analysis and achieves an accuracy of 79.2% with the basic first level machine learning model 
 (using Microsoft's LightGBM library).
